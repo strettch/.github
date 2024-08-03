@@ -1,1 +1,3 @@
-# .github
+# Strettch
+
+YOU DESERVE A GREAT PRODUCT
