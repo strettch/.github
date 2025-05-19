@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Authoring the world’s best software products — that create endless opportunities for businesses and their customers.
+Strettch is a software company that creates state-of-the-art custom software solutions — designed to establish a lasting reputation for businesses and their customers.
+
+You **Deserve** a **Great** Product!😊
 
 <!--
 
