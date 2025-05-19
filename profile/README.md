@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Strettch is a software development company that creates innovative products to help businesses succeed.
+Authoring the world’s best software products — that create endless opportunities for businesses and their customers.
 
 <!--
 
